@@ -1,1 +1,1 @@
-![Lines of Code](https://tokei.rs/b1/github/KarsonChristianson/Viewer-Hub?category=code)
+![Lines of Code](badges/loc-badge.svg)
